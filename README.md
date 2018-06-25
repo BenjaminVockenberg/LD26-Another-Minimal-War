@@ -8,3 +8,5 @@ Requirements:
 Windows7, 8 or 10... 2GB Ram, Dx11
 
 Optional a Chrom or Firefox for the webversion ;)
+
+BY Benjamin Vockenberg | @technokrat | benjamin.vockenberg@gmail.com
