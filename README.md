@@ -1,4 +1,4 @@
-# AnotherMinimalWar.gmx
+# Another Minimal War
 This is an arcade game for LudumDare26. 
 Created with GameMaker:Studio
 
