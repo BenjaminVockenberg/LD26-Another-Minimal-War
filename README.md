@@ -1,5 +1,5 @@
 # Another Minimal War
-This is an arcade game for LudumDare26. 
+This is a GameJam entry for LudumDare26. 
 Created with GameMaker:Studio
 
 Requirements:
